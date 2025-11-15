@@ -103,7 +103,6 @@ verify it is running
 ```
 docker ps
 ```
-**Screenshot Placeholder**
 <img width="1728" height="1117" alt="Screenshot 2025-11-13 at 10 35 53 PM" src="https://github.com/user-attachments/assets/4f495ed8-4782-4451-b554-e2fc1fbf1a5f" />
 
 
@@ -113,7 +112,6 @@ docker ps
 
 `http://127.0.0.1:3001`
 
-**Screenshot Placeholder**
 <img width="1728" height="1117" alt="Screenshot 2025-11-13 at 10 35 53 PM" src="https://github.com/user-attachments/assets/4f495ed8-4782-4451-b554-e2fc1fbf1a5f" />
 
 ## 8. Adding Monitoring Services
