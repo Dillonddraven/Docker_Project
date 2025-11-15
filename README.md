@@ -90,8 +90,11 @@ volumes:
   uptime-kuma-data:
 ```
 Data is stored in a Docker volume, and the service is configured to use port 3001 and restart automatically.
+<img width="1728" height="1117" alt="Screenshot 2025-11-13 at 8 47 15 PM" src="https://github.com/user-attachments/assets/d6b4604f-bef9-4835-a041-be6839a37d22" />
+
 
 ## 6. Launching Uptime-Kuma
+<img width="1728" height="1117" alt="Screenshot 2025-11-13 at 8 46 50 PM" src="https://github.com/user-attachments/assets/4ea79ac0-8343-4a48-a77e-8b0111826bd7" />
 
 ```
 sudo docker compose up -d
@@ -101,6 +104,9 @@ verify it is running
 docker ps
 ```
 **Screenshot Placeholder**
+<img width="1728" height="1117" alt="Screenshot 2025-11-13 at 10 35 53 PM" src="https://github.com/user-attachments/assets/4f495ed8-4782-4451-b554-e2fc1fbf1a5f" />
+
+
 ![Docker PS](images/docker-ps.png)
 
 ## 7. Accessing the Dashboard
@@ -108,7 +114,7 @@ docker ps
 `http://127.0.0.1:3001`
 
 **Screenshot Placeholder**
-![Uptime Kuma Dashboard](images/dashboard.png)
+<img width="1728" height="1117" alt="Screenshot 2025-11-13 at 10 35 53 PM" src="https://github.com/user-attachments/assets/4f495ed8-4782-4451-b554-e2fc1fbf1a5f" />
 
 ## 8. Adding Monitoring Services
 
@@ -116,4 +122,7 @@ I configured two monitors for testing:
 
 - Google (HTTP)
 - GitHub (HTTP)
+<img width="1728" height="1117" alt="Screenshot 2025-11-13 at 11 07 37 PM" src="https://github.com/user-attachments/assets/42fb324c-6881-420a-8ddd-67ffa14a2f2e" />
+
+  
 
