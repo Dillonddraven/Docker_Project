@@ -103,10 +103,8 @@ verify it is running
 ```
 docker ps
 ```
-<img width="1728" height="1117" alt="Screenshot 2025-11-13 at 10 35 53 PM" src="https://github.com/user-attachments/assets/4f495ed8-4782-4451-b554-e2fc1fbf1a5f" />
 
 
-![Docker PS](images/docker-ps.png)
 
 ## 7. Accessing the Dashboard
 
